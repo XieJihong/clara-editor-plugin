@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Clara (Vaadin 7) XML Editor
+Bundle-SymbolicName: com.vaadin.clara.eclipse.editor.ui;singleton:=true
+Bundle-Version: 0.5.0
+Bundle-Activator: com.vaadin.clara.eclipse.editor.ui.Activator
+Bundle-Vendor: Holger Hähle
+Require-Bundle: org.eclipse.ui;bundle-version="3.6.0",
+ org.eclipse.core.runtime;bundle-version="3.6.0",
+ org.eclipse.wst.xml.core;bundle-version="1.1.500",
+ org.eclipse.wst.sse.core;bundle-version="1.1.500",
+ org.eclipse.jface.text;bundle-version="3.6.0",
+ org.eclipse.wst.xml.ui;bundle-version="1.1.100",
+ org.eclipse.wst.sse.ui;bundle-version="1.2.0",
+ org.eclipse.ui.ide;bundle-version="3.6.0",
+ org.eclipse.core.resources;bundle-version="3.6.0",
+ com.vaadin.clara.eclipse.editor.model;bundle-version="0.5.0",
+ org.eclipse.core.filesystem;bundle-version="1.3.0",
+ com.vaadin.clara.eclipse.editor.generate;bundle-version="0.5.0"
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

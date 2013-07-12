@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Generate Clara (Vaadin 7) Component Proposal Model
+Bundle-SymbolicName: com.vaadin.clara.eclipse.editor.generate
+Bundle-Version: 0.5.0
+Bundle-ClassPath: lib/vaadin/javax.servlet.jar,
+ lib/vaadin/portlet-api_2.0_spec-1.0.jar,
+ lib/vaadin/servlet-api-2.5-6.1.11.jar,
+ lib/vaadin/vaadin-client-7.0.5.jar,
+ lib/vaadin/vaadin-client-compiled-7.0.5.jar,
+ lib/vaadin/vaadin-client-compiler-7.0.5.jar,
+ lib/vaadin/vaadin-server-7.0.5.jar,
+ lib/vaadin/vaadin-shared-7.0.5.jar,
+ lib/vaadin/vaadin-shared-deps-1.0.2.jar,
+ lib/vaadin/vaadin-theme-compiler-7.0.5.jar,
+ lib/vaadin/vaadin-themes-7.0.5.jar,
+ .
+Require-Bundle: com.vaadin.clara.eclipse.editor.model;bundle-version="0.5.0"
+Export-Package: com.vaadin.clara.eclipse.editor.generate
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Vendor: Holger Hähle
