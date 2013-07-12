@@ -1,0 +1,3203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Generated Proposal Model -->
+<definitions>
+    <component childCount="-1" name="AbsoluteLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="Accordion" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="selectedTab" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="tabCaption" namespacePrefix="t" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Audio" namespacePrefix="">
+        <attribute additionalInfo="" name="altText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="autoplay" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="muted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="showControls" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="BrowserFrame" namespacePrefix="">
+        <attribute additionalInfo="" name="alternateText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Button" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="disableOnClick" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="CheckBox" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPicker" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="defaultCaptionEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="hSVVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="historyVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="popupStyle" namespacePrefix="" targetTypeInfo="PopupStyle">
+            <value>POPUP_NORMAL</value>
+            <value>POPUP_SIMPLE</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rGBVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="swatchesVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="textfieldVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPickerArea" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="defaultCaptionEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="hSVVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="historyVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="popupStyle" namespacePrefix="" targetTypeInfo="PopupStyle">
+            <value>POPUP_NORMAL</value>
+            <value>POPUP_SIMPLE</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rGBVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="swatchesVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="textfieldVisibility" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPickerGradient" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPickerGrid" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPickerHistory" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="1" name="ColorPickerPopup" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="closable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="draggable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="hSVTabVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="historyVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="modal" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="positionX" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="positionY" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="previewVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rGBTabVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="resizable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="resizeLazy" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="scrollLeft" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="scrollTop" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="swatchesTabVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="ColorPickerPreview" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ColorPickerSelect" namespacePrefix="n1">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ComboBox" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="filteringMode" namespacePrefix="" targetTypeInfo="FilteringMode">
+            <value>OFF</value>
+            <value>STARTSWITH</value>
+            <value>CONTAINS</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="pageLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="scrollToSelectedItem" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textInputAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="-1" name="CssLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="CustomComponent" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="CustomLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="templateContents" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="templateName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="DateField" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dateFormat" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="lenient" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="parseErrorMessage" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="resolution" namespacePrefix="" targetTypeInfo="Resolution">
+            <value>SECOND</value>
+            <value>MINUTE</value>
+            <value>HOUR</value>
+            <value>DAY</value>
+            <value>MONTH</value>
+            <value>YEAR</value>
+        </attribute>
+        <attribute additionalInfo="" name="showISOWeekNumbers" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="DragAndDropWrapper" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dragStartMode" namespacePrefix="" targetTypeInfo="DragStartMode">
+            <value>NONE</value>
+            <value>COMPONENT</value>
+            <value>WRAPPER</value>
+            <value>HTML5</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Embedded" namespacePrefix="">
+        <attribute additionalInfo="" name="alternateText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="archive" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="classId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="codebase" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="codetype" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="mimeType" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="standby" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="type" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Flash" namespacePrefix="">
+        <attribute additionalInfo="" name="alternateText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="archive" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="codebase" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="codetype" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="standby" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Form" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="validationVisibleOnCommit" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="FormLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="margin" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="spacing" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="componentAlignment" namespacePrefix="p" targetTypeInfo="Alignment">
+            <value>TOP_RIGHT</value>
+            <value>TOP_LEFT</value>
+            <value>TOP_CENTER</value>
+            <value>MIDDLE_RIGHT</value>
+            <value>MIDDLE_LEFT</value>
+            <value>MIDDLE_CENTER</value>
+            <value>BOTTOM_RIGHT</value>
+            <value>BOTTOM_LEFT</value>
+            <value>BOTTOM_CENTER</value>
+        </childAttribute>
+        <childAttribute additionalInfo="" name="expandRatio" namespacePrefix="p" targetTypeInfo="float"/>
+    </component>
+    <component childCount="-1" name="GridLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="cursorX" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="cursorY" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="margin" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="rows" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="spacing" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="componentAlignment" namespacePrefix="p" targetTypeInfo="Alignment">
+            <value>TOP_RIGHT</value>
+            <value>TOP_LEFT</value>
+            <value>TOP_CENTER</value>
+            <value>MIDDLE_RIGHT</value>
+            <value>MIDDLE_LEFT</value>
+            <value>MIDDLE_CENTER</value>
+            <value>BOTTOM_RIGHT</value>
+            <value>BOTTOM_LEFT</value>
+            <value>BOTTOM_CENTER</value>
+        </childAttribute>
+        <childAttribute additionalInfo="" name="expandRatio" namespacePrefix="p" targetTypeInfo="float"/>
+    </component>
+    <component childCount="-1" name="HorizontalLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="margin" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="spacing" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="componentAlignment" namespacePrefix="p" targetTypeInfo="Alignment">
+            <value>TOP_RIGHT</value>
+            <value>TOP_LEFT</value>
+            <value>TOP_CENTER</value>
+            <value>MIDDLE_RIGHT</value>
+            <value>MIDDLE_LEFT</value>
+            <value>MIDDLE_CENTER</value>
+            <value>BOTTOM_RIGHT</value>
+            <value>BOTTOM_LEFT</value>
+            <value>BOTTOM_CENTER</value>
+        </childAttribute>
+        <childAttribute additionalInfo="" name="expandRatio" namespacePrefix="p" targetTypeInfo="float"/>
+    </component>
+    <component childCount="2" name="HorizontalSplitPanel" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="locked" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="splitPosition" namespacePrefix="" targetTypeInfo="float"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Image" namespacePrefix="">
+        <attribute additionalInfo="" name="alternateText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="InlineDateField" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dateFormat" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="lenient" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="parseErrorMessage" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="resolution" namespacePrefix="" targetTypeInfo="Resolution">
+            <value>SECOND</value>
+            <value>MINUTE</value>
+            <value>HOUR</value>
+            <value>DAY</value>
+            <value>MONTH</value>
+            <value>YEAR</value>
+        </attribute>
+        <attribute additionalInfo="" name="showISOWeekNumbers" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Label" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="contentMode" namespacePrefix="" targetTypeInfo="ContentMode">
+            <value>TEXT</value>
+            <value>PREFORMATTED</value>
+            <value>HTML</value>
+            <value>XML</value>
+            <value>RAW</value>
+        </attribute>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="1" name="LegacyWindow" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="lastHeartbeatTimestamp" namespacePrefix="" targetTypeInfo="long"/>
+        <attribute additionalInfo="" name="name" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="resizeLazy" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="scrollLeft" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="scrollTop" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Link" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="targetBorder" namespacePrefix="" targetTypeInfo="BorderStyle">
+            <value>NONE</value>
+            <value>MINIMAL</value>
+            <value>DEFAULT</value>
+        </attribute>
+        <attribute additionalInfo="" name="targetHeight" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="targetName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="targetWidth" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ListSelect" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rows" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="LoginForm" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="loginButtonCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="passwordCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="usernameCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="MenuBar" namespacePrefix="">
+        <attribute additionalInfo="" name="autoOpen" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="NativeButton" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="disableOnClick" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="NativeSelect" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="OptionGroup" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="1" name="Panel" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="scrollLeft" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="scrollTop" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="PasswordField" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="cursorPosition" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="maxLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="nullRepresentation" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="nullSettingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textChangeEventMode" namespacePrefix="" targetTypeInfo="TextChangeEventMode">
+            <value>EAGER</value>
+            <value>TIMEOUT</value>
+            <value>LAZY</value>
+        </attribute>
+        <attribute additionalInfo="" name="textChangeTimeout" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="PopupDateField" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dateFormat" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="lenient" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="parseErrorMessage" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="resolution" namespacePrefix="" targetTypeInfo="Resolution">
+            <value>SECOND</value>
+            <value>MINUTE</value>
+            <value>HOUR</value>
+            <value>DAY</value>
+            <value>MONTH</value>
+            <value>YEAR</value>
+        </attribute>
+        <attribute additionalInfo="" name="showISOWeekNumbers" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textFieldEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="PopupView" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="hideOnMouseOut" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="popupVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="ProgressIndicator" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="indeterminate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="pollingInterval" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="Float"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="RichTextArea" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullRepresentation" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="nullSettingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Select" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="filteringMode" namespacePrefix="" targetTypeInfo="FilteringMode">
+            <value>OFF</value>
+            <value>STARTSWITH</value>
+            <value>CONTAINS</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="pageLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="scrollToSelectedItem" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textInputAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="Slider" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="max" namespacePrefix="" targetTypeInfo="double"/>
+        <attribute additionalInfo="" name="min" namespacePrefix="" targetTypeInfo="double"/>
+        <attribute additionalInfo="" name="orientation" namespacePrefix="" targetTypeInfo="SliderOrientation">
+            <value>HORIZONTAL</value>
+            <value>VERTICAL</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="resolution" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="Double"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="TabSheet" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="selectedTab" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="tabCaption" namespacePrefix="t" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Table" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="cacheRate" namespacePrefix="" targetTypeInfo="double"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columnCollapsingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="columnHeaderMode" namespacePrefix="" targetTypeInfo="ColumnHeaderMode">
+            <value>HIDDEN</value>
+            <value>ID</value>
+            <value>EXPLICIT</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+        </attribute>
+        <attribute additionalInfo="" name="columnReorderingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="currentPageFirstItemIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dragMode" namespacePrefix="" targetTypeInfo="TableDragMode">
+            <value>NONE</value>
+            <value>ROW</value>
+            <value>MULTIROW</value>
+        </attribute>
+        <attribute additionalInfo="" name="editable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="footerVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelectMode" namespacePrefix="" targetTypeInfo="MultiSelectMode">
+            <value>DEFAULT</value>
+            <value>SIMPLE</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="pageLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rowHeaderMode" namespacePrefix="" targetTypeInfo="RowHeaderMode">
+            <value>HIDDEN</value>
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="selectable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortAscending" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortDisabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="TextArea" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="cursorPosition" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="maxLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="nullRepresentation" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="nullSettingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rows" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textChangeEventMode" namespacePrefix="" targetTypeInfo="TextChangeEventMode">
+            <value>EAGER</value>
+            <value>TIMEOUT</value>
+            <value>LAZY</value>
+        </attribute>
+        <attribute additionalInfo="" name="textChangeTimeout" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="wordwrap" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+    </component>
+    <component childCount="0" name="TextField" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="cursorPosition" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="inputPrompt" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="maxLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="nullRepresentation" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="nullSettingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textChangeEventMode" namespacePrefix="" targetTypeInfo="TextChangeEventMode">
+            <value>EAGER</value>
+            <value>TIMEOUT</value>
+            <value>LAZY</value>
+        </attribute>
+        <attribute additionalInfo="" name="textChangeTimeout" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Tree" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dragMode" namespacePrefix="" targetTypeInfo="TreeDragMode">
+            <value>NONE</value>
+            <value>NODE</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="lazyLoading" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiselectMode" namespacePrefix="" targetTypeInfo="MultiSelectMode">
+            <value>DEFAULT</value>
+            <value>SIMPLE</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="selectable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="TreeTable" namespacePrefix="">
+        <attribute additionalInfo="" name="animationsEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="cacheRate" namespacePrefix="" targetTypeInfo="double"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columnCollapsingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="columnHeaderMode" namespacePrefix="" targetTypeInfo="ColumnHeaderMode">
+            <value>HIDDEN</value>
+            <value>ID</value>
+            <value>EXPLICIT</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+        </attribute>
+        <attribute additionalInfo="" name="columnReorderingAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="currentPageFirstItemIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="dragMode" namespacePrefix="" targetTypeInfo="TableDragMode">
+            <value>NONE</value>
+            <value>ROW</value>
+            <value>MULTIROW</value>
+        </attribute>
+        <attribute additionalInfo="" name="editable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="footerVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="multiSelectMode" namespacePrefix="" targetTypeInfo="MultiSelectMode">
+            <value>DEFAULT</value>
+            <value>SIMPLE</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="pageLength" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rowHeaderMode" namespacePrefix="" targetTypeInfo="RowHeaderMode">
+            <value>HIDDEN</value>
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="selectable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortAscending" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortDisabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="sortEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="TwinColSelect" namespacePrefix="">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="columns" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="itemCaptionMode" namespacePrefix="" targetTypeInfo="ItemCaptionMode">
+            <value>ID</value>
+            <value>ITEM</value>
+            <value>INDEX</value>
+            <value>EXPLICIT_DEFAULTS_ID</value>
+            <value>EXPLICIT</value>
+            <value>ICON_ONLY</value>
+            <value>PROPERTY</value>
+        </attribute>
+        <attribute additionalInfo="" name="leftColumnCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="multiSelect" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="newItemsAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="nullSelectionAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rightColumnCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="rows" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="itemCaptionPropertyId" namespacePrefix="" targetTypeInfo="Object"/>
+    </component>
+    <component childCount="0" name="Upload" namespacePrefix="">
+        <attribute additionalInfo="" name="buttonCaption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="-1" name="VerticalLayout" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="margin" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="spacing" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <childAttribute additionalInfo="" name="componentAlignment" namespacePrefix="p" targetTypeInfo="Alignment">
+            <value>TOP_RIGHT</value>
+            <value>TOP_LEFT</value>
+            <value>TOP_CENTER</value>
+            <value>MIDDLE_RIGHT</value>
+            <value>MIDDLE_LEFT</value>
+            <value>MIDDLE_CENTER</value>
+            <value>BOTTOM_RIGHT</value>
+            <value>BOTTOM_LEFT</value>
+            <value>BOTTOM_CENTER</value>
+        </childAttribute>
+        <childAttribute additionalInfo="" name="expandRatio" namespacePrefix="p" targetTypeInfo="float"/>
+    </component>
+    <component childCount="2" name="VerticalSplitPanel" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="locked" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="splitPosition" namespacePrefix="" targetTypeInfo="float"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="Video" namespacePrefix="">
+        <attribute additionalInfo="" name="altText" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="autoplay" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="htmlContentAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="muted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="showControls" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="1" name="Window" namespacePrefix="">
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="closable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="draggable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="modal" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="positionX" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="positionY" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="resizable" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="resizeLazy" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="scrollLeft" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="scrollTop" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="DateStepper" namespacePrefix="n2">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidValuesAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="manualInputAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="mouseWheelEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="stepField" namespacePrefix="" targetTypeInfo="DateStepperField">
+            <value>DAY</value>
+            <value>MONTH</value>
+            <value>YEAR</value>
+        </attribute>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="FloatStepper" namespacePrefix="n2">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidValuesAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="manualInputAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="mouseWheelEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="numberOfDecimals" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="IntStepper" namespacePrefix="n2">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidValuesAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="manualInputAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="mouseWheelEnabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <component childCount="0" name="AceEditor" namespacePrefix="n3">
+        <attribute additionalInfo="" name="buffered" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="caption" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="conversionError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="cursorPosition" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="debugId" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="description" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="enabled" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="height" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="id" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="immediate" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidAllowed" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="invalidCommitted" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="mode" namespacePrefix="" targetTypeInfo="AceMode">
+            <value>abap</value>
+            <value>asciidoc</value>
+            <value>c_cpp</value>
+            <value>c9search</value>
+            <value>clojure</value>
+            <value>coffee</value>
+            <value>coldfusion</value>
+            <value>csharp</value>
+            <value>css</value>
+            <value>curly</value>
+            <value>dart</value>
+            <value>diff</value>
+            <value>django</value>
+            <value>dot</value>
+            <value>glsl</value>
+            <value>golang</value>
+            <value>groovy</value>
+            <value>haml</value>
+            <value>haxe</value>
+            <value>html</value>
+            <value>jade</value>
+            <value>java</value>
+            <value>javascript</value>
+            <value>json</value>
+            <value>jsp</value>
+            <value>jsx</value>
+            <value>latex</value>
+            <value>less</value>
+            <value>liquid</value>
+            <value>lisp</value>
+            <value>livescript</value>
+            <value>lua</value>
+            <value>luapage</value>
+            <value>markdown</value>
+            <value>objectivec</value>
+            <value>ocaml</value>
+            <value>perl</value>
+            <value>pgsql</value>
+            <value>php</value>
+            <value>powershell</value>
+            <value>python</value>
+            <value>r</value>
+            <value>rdoc</value>
+            <value>rhtml</value>
+            <value>ruby</value>
+            <value>scad</value>
+            <value>scala</value>
+            <value>scheme</value>
+            <value>scss</value>
+            <value>sh</value>
+            <value>sql</value>
+            <value>stylus</value>
+            <value>svg</value>
+            <value>tcl</value>
+            <value>tex</value>
+            <value>text</value>
+            <value>textile</value>
+            <value>tm_snippet</value>
+            <value>typescript</value>
+            <value>xml</value>
+            <value>xquery</value>
+            <value>yaml</value>
+        </attribute>
+        <attribute additionalInfo="" name="mode" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="modePath" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="primaryStyleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="readOnly" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="required" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="requiredError" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="styleName" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="tabIndex" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="textChangeEventMode" namespacePrefix="" targetTypeInfo="TextChangeEventMode">
+            <value>EAGER</value>
+            <value>TIMEOUT</value>
+            <value>LAZY</value>
+        </attribute>
+        <attribute additionalInfo="" name="textChangeTimeout" namespacePrefix="" targetTypeInfo="int"/>
+        <attribute additionalInfo="" name="theme" namespacePrefix="" targetTypeInfo="AceTheme">
+            <value>ambiance</value>
+            <value>chrome</value>
+            <value>clouds</value>
+            <value>clouds_midnight</value>
+            <value>cobalt</value>
+            <value>crimson_editor</value>
+            <value>dawn</value>
+            <value>dreamweaver</value>
+            <value>eclipse</value>
+            <value>github</value>
+            <value>idle_fingers</value>
+            <value>kr</value>
+            <value>merbivore</value>
+            <value>merbivore_soft</value>
+            <value>mono_industrial</value>
+            <value>monokai</value>
+            <value>pastel_on_dark</value>
+            <value>solarized_dark</value>
+            <value>solarized_light</value>
+            <value>textmate</value>
+            <value>tomorrow</value>
+            <value>tomorrow_night</value>
+            <value>tomorrow_night_blue</value>
+            <value>tomorrow_night_bright</value>
+            <value>tomorrow_night_eighties</value>
+            <value>twilight</value>
+            <value>vibrant_ink</value>
+            <value>xcode</value>
+        </attribute>
+        <attribute additionalInfo="" name="theme" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="themePath" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="useWorker" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="validationVisible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="value" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="visible" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="width" namespacePrefix="" targetTypeInfo="String"/>
+        <attribute additionalInfo="" name="wordWrap" namespacePrefix="" targetTypeInfo="boolean">
+            <value>true</value>
+            <value>false</value>
+        </attribute>
+        <attribute additionalInfo="" name="workerPath" namespacePrefix="" targetTypeInfo="String"/>
+    </component>
+    <namespace prefix="p" url="urn:vaadin:parent"/>
+    <namespace prefix="t" url="urn:vaadin:tab"/>
+    <namespace prefix="" url="urn:import:com.vaadin.ui"/>
+    <namespace prefix="n1" url="urn:import:com.vaadin.ui.components.colorpicker"/>
+    <namespace prefix="n2" url="urn:import:org.vaadin.risto.stepper"/>
+    <namespace prefix="n3" url="urn:import:org.vaadin.aceeditor"/>
+</definitions>

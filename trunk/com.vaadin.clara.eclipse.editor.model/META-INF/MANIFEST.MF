@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Vaadin Component Proposal Model
+Bundle-SymbolicName: com.vaadin.clara.eclipse.editor.model
+Bundle-Version: 0.5.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.vaadin.clara.eclipse.editor.model
+Bundle-Vendor: Holger Hähle
